@@ -1,0 +1,3 @@
+[submodule "gcp-to-aws-ha-vpn-terraform-module"]
+	path = gcp-to-aws-ha-vpn-terraform-module
+	url = https://github.com/hellof20/gcp-to-aws-ha-vpn-terraform-module
