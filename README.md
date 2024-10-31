@@ -6,12 +6,12 @@ git clone --recursive git@github.com:hellof20/gcp-aws-ha-vpn.git
 ```
 
 ## Prepare
-1. generate provider.tf
+1. generate
 ```
-cp provider.tf.template provider.tf
+cp provider.tf.example provider.tf
+cp main.tf.example main.tf
 ```
-2. modify provider.tf
-3. modify main.tf
+2. modify provider.tf and main.tf
 ## Usage
 ```
 terraform init
