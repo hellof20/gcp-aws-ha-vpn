@@ -2,4 +2,5 @@
 terraform.tfstate*
 .terraform
 provider.tf
+main.tf
 *.json
